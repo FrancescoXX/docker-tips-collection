@@ -25,3 +25,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker run options|https://twitter.com/FrancescoCiull4/status/1285459732300431360|
 |containers PRO over VMs|https://twitter.com/FrancescoCiull4/status/1285632881474314240|
 |docker login |https://twitter.com/FrancescoCiull4/status/1285827756144680961|
+|docker run memory options|https://twitter.com/FrancescoCiull4/status/1286177059182608385|
