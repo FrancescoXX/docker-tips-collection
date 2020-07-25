@@ -27,3 +27,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker login |https://twitter.com/FrancescoCiull4/status/1285827756144680961|
 |docker run memory options|https://twitter.com/FrancescoCiull4/status/1286177059182608385|
 |docker redis|https://twitter.com/FrancescoCiull4/status/1286673172142739456|
+|docker pgadmin|https://twitter.com/FrancescoCiull4/status/1286889562887905280|
