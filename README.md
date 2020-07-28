@@ -29,4 +29,5 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker redis|https://twitter.com/FrancescoCiull4/status/1286673172142739456|
 |docker pgadmin|https://twitter.com/FrancescoCiull4/status/1286889562887905280|
 |docker on raspberry pi|https://twitter.com/FrancescoCiull4/status/1287292084467228674|
-|socker-compose up options for dev|https://twitter.com/FrancescoCiull4/status/1287664001674076162|
+|docker-compose up options for dev|https://twitter.com/FrancescoCiull4/status/1287664001674076162|
+|docker grafana|https://twitter.com/FrancescoCiull4/status/1288209701684092929|
