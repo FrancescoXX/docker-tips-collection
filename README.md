@@ -38,3 +38,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker getting started|https://twitter.com/FrancescoCiull4/status/1292487593041502208|
 |docker cheatsheets|https://twitter.com/FrancescoCiull4/status/1293824129171300352|
 |dockerignore file(visual) |https://twitter.com/FrancescoCiull4/status/1299687691303424002|
+|docker desktop|https://twitter.com/FrancescoCiull4/status/1302651884705124354|
