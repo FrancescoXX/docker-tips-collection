@@ -40,3 +40,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |dockerignore file(visual) |https://twitter.com/FrancescoCiull4/status/1299687691303424002|
 |docker desktop|https://twitter.com/FrancescoCiull4/status/1302651884705124354|
 |docker prune VISUAL|https://twitter.com/FrancescoCiull4/status/1305731554535239681|
+|docker namespaces|https://twitter.com/FrancescoCiull4/status/1306822488568082432|
