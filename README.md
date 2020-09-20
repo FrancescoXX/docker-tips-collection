@@ -6,7 +6,6 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |Create a Non-Root User inside a Dockerfile|https://twitter.com/FrancescoCiull4/status/1237748044839424001|
 | How to Retrieve the process id of a running container instance   |   https://twitter.com/FrancescoCiull4/status/1234799750559432704  |
 | Stop and remove all containers created by docker-compose up    |    https://twitter.com/FrancescoCiull4/status/1235994027541098503   |
-|Create a Non-Root User inside a Dockerfile|https://twitter.com/FrancescoCiull4/status/1237748044839424001|
 |Delete all not running containers.|https://twitter.com/FrancescoCiull4/status/1237008958814109696|
 |Let's prune what we no longer need|https://twitter.com/FrancescoCiull4/status/1272755695646126082|
 |check the environment variables of an image|https://twitter.com/FrancescoCiull4/status/1273515405160714240|
@@ -41,3 +40,5 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker desktop|https://twitter.com/FrancescoCiull4/status/1302651884705124354|
 |docker prune VISUAL|https://twitter.com/FrancescoCiull4/status/1305731554535239681|
 |docker namespaces|https://twitter.com/FrancescoCiull4/status/1306822488568082432|
+|docker cgroups and union fs|https://twitter.com/FrancescoCiull4/status/1307211162552070144|
+|docker scan|https://twitter.com/FrancescoCiull4/status/1307574372828418048|
