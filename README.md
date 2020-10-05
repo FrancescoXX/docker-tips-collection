@@ -42,3 +42,6 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker namespaces|https://twitter.com/FrancescoCiull4/status/1306822488568082432|
 |docker cgroups and union fs|https://twitter.com/FrancescoCiull4/status/1307211162552070144|
 |docker scan|https://twitter.com/FrancescoCiull4/status/1307574372828418048|
+|stop and delete signals|https://twitter.com/FrancescoCiull4/status/1308375594997084161|
+|CMD & Entrypoint|https://twitter.com/FrancescoCiull4/status/1311930231033393152|
+
