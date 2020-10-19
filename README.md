@@ -45,3 +45,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |stop and delete signals|https://twitter.com/FrancescoCiull4/status/1308375594997084161|
 |CMD & Entrypoint|https://twitter.com/FrancescoCiull4/status/1311930231033393152|
 |dockerfile go example|https://twitter.com/FrancescoCiull4/status/1314077962858364929|
+|minimalistic definitions|https://twitter.com/FrancescoCiull4/status/1318150257306443778|
