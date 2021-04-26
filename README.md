@@ -47,3 +47,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |dockerfile go example|https://twitter.com/FrancescoCiull4/status/1314077962858364929|
 |minimalistic definitions|https://twitter.com/FrancescoCiull4/status/1318150257306443778|
 |docker architecture|https://twitter.com/FrancescoCiull4/status/1385742322189709314|
+|Dockerfile Thread| https://twitter.com/FrancescoCiull4/status/1386613370271551488|
