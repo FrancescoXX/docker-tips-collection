@@ -49,3 +49,5 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker architecture|https://twitter.com/FrancescoCiull4/status/1385742322189709314|
 |Dockerfile Thread| https://twitter.com/FrancescoCiull4/status/1386613370271551488|
 |What is a container|https://twitter.com/FrancescoCiull4/status/1386905181170896900|
+|Why Containers Part1|https://twitter.com/FrancescoCiull4/status/1387279411741958150|
+|Why Containers part 2 |https://twitter.com/FrancescoCiull4/status/1387662189318877185|
