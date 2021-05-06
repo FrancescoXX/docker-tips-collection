@@ -52,3 +52,7 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |Why Containers Part1|https://twitter.com/FrancescoCiull4/status/1387279411741958150|
 |Why Containers part 2 |https://twitter.com/FrancescoCiull4/status/1387662189318877185|
 |docker run thread|https://twitter.com/FrancescoCiull4/status/1388006161916497920|
+|docker to 5 yo kid|https://twitter.com/FrancescoCiull4/status/1388855367392763906|
+|naming containers|https://twitter.com/FrancescoCiull4/status/1389110833800699904|
+|docker-compose thread|https://twitter.com/FrancescoCiull4/status/1389834251697336325|
+|docker-compose up run start|https://twitter.com/FrancescoCiull4/status/1390181283083526147|
