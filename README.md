@@ -56,3 +56,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |naming containers|https://twitter.com/FrancescoCiull4/status/1389110833800699904|
 |docker-compose thread|https://twitter.com/FrancescoCiull4/status/1389834251697336325|
 |docker-compose up run start|https://twitter.com/FrancescoCiull4/status/1390181283083526147|
+|docker format go template|https://twitter.com/FrancescoCiull4/status/1390581714720808961|
