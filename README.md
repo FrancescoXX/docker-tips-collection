@@ -73,5 +73,3 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |docker commit VISUAL|https://twitter.com/FrancescoCiull4/status/1402128637743280138|
 |dockercon 2021. What's new|https://twitter.com/FrancescoCiull4/status/1402491597967839237|
 |docker desktop 3.4.0|https://twitter.com/FrancescoCiull4/status/1402871802867638272|
-
-
