@@ -62,3 +62,16 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |default and custom bridge network|https://twitter.com/FrancescoCiull4/status/1393788399316881410|
 |Path to learn Docker|https://twitter.com/FrancescoCiull4/status/1394886763127181315|
 |docker compose|https://twitter.com/FrancescoCiull4/status/1395248125602942976|
+|lifecycle of containers|https://twitter.com/FrancescoCiull4/status/1395623435712278528|
+|dangling images|https://twitter.com/FrancescoCiull4/status/1395968187246731265|
+|docker deprecated by kubernetes|https://twitter.com/FrancescoCiull4/status/1396733889545187330|
+|get inside linux docker image|https://twitter.com/FrancescoCiull4/status/1397791624273485825|
+|docker compose v2|https://twitter.com/FrancescoCiull4/status/1395248125602942976|
+|docker commands: docker build|https://twitter.com/FrancescoCiull4/status/1398906449015848961|
+|docker exec visual|https://twitter.com/FrancescoCiull4/status/1399748505581805568|
+|old and new cli command foramt|https://twitter.com/FrancescoCiull4/status/1401854190801063938|
+|docker commit VISUAL|https://twitter.com/FrancescoCiull4/status/1402128637743280138|
+|dockercon 2021. What's new|https://twitter.com/FrancescoCiull4/status/1402491597967839237|
+|docker desktop 3.4.0|https://twitter.com/FrancescoCiull4/status/1402871802867638272|
+
+
