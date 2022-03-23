@@ -74,3 +74,4 @@ A collection of Docker tips by Francesco Ciulla 🐳
 |dockercon 2021. What's new|https://twitter.com/FrancescoCiull4/status/1402491597967839237|
 |docker desktop 3.4.0|https://twitter.com/FrancescoCiull4/status/1402871802867638272|
 |11 docker definitions|https://twitter.com/FrancescoCiull4/status/1496854185689681931|
+|12 Docker threads|https://twitter.com/FrancescoCiull4/status/1505934668348248068|
